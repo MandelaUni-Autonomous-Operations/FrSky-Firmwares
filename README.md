@@ -10,7 +10,7 @@ On the radio, navigate to the firmware folder, click on the file and select "Fla
 See the folder: [FW-RX8R_Pro-v2.1.0](https://github.com/MandelaUni-Autonomous-Operations/FrSky-Firmwares/tree/main/FW-RX8R_Pro-v2.1.0)
 The FCC version of this firmware should be flashed to the radio. To flash using an X7, use a normal servo lead to connect the smart port of the radio to the smart port of the transmitter, as shown below.
 
-https://oscarliang.com/wp-content/uploads/2017/07/Taranis-QX7-Smart-Port-pin-bottom-TX.jpg<img width="673" height="436" alt="image" src="https://github.com/user-attachments/assets/ad295e30-1592-4fef-98d2-7caf9d4b1426" />
+<img width="673" height="436" alt="image" src="https://github.com/user-attachments/assets/ad295e30-1592-4fef-98d2-7caf9d4b1426" />
 
 If not using the smart port, connect as described [here](https://oscarliang.com/flash-frsky-rx-firmware/)
 
