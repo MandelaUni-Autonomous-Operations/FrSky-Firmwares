@@ -15,3 +15,12 @@ If not using the smart port, connect as described here: https://oscarliang.com/f
 
 ### X8R 
 See the folder: FW-X6R-X8R-v2.1.0
+
+### R-XSR
+See the folder: FW-RXSR-v2.1.0
+
+### XM + 
+See the folder: FW-XM-XMP-2.1.0
+
+### S8R or S6R
+See the folder: SxR-ACCST-2.1.0
